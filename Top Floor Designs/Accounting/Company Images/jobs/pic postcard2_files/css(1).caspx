@@ -1,0 +1,1303 @@
+.studioDocumentText
+{
+  position:absolute
+}
+label
+{
+  cursor:pointer
+}
+#divLeftColumn
+{
+  width:174px;
+  padding-bottom:20px
+}
+#tblBacksideSelector
+{
+  left:0;
+  margin-bottom:15px;
+  margin-top:0
+}
+.bold-font
+{
+  font-weight:bold
+}
+.imgPageSelectorPageAccent
+{
+  margin-left:5px;
+  margin-right:5px;
+  vertical-align:middle
+}
+#section-title
+{
+  margin-top:8px;
+  height:30px
+}
+#spnSectionTitle,
+#spnSectionTitleAdvanced
+{
+  float:left
+}
+#spnViewLargerOrSmallerLinks
+{
+  margin:5px 0 10px 0
+}
+.sample-branding-container
+{
+  display:inline-block
+}
+.sample-branding-message
+{
+  margin:0 15px 0 5px;
+  text-align:left
+}
+.sample-branding-message h3
+{
+  margin:0
+}
+.richTextFieldIE p,
+richTextFieldIE ol,
+richTextFieldIE ul
+{
+  margin-top:0;
+  margin-bottom:0
+}
+.richTextFieldIE ul
+{
+  margin-left:1.5em
+}
+.richTextFieldIE ol
+{
+  margin-left:2.5em
+}
+#divTwoColumnLayout,
+#divBrochureLayout
+{
+  margin-bottom:10px
+}
+#divTwoColumnLayout #tdLeftColumn,
+#divBrochureLayout #tdLeftColumn
+{
+  width:190px;
+  padding-right:5px
+}
+#divTwoColumnLayout #tdContentColumn
+{
+  width:100%
+}
+#divTwoColumnLayout #divBelowEditor,
+#divBrochureLayout #tdBelowEditorColumn
+{
+  margin-top:10px;
+  margin-left:4px
+}
+#divTwoColumnLayout #divBelowDocument
+{
+  padding-top:5px;
+  display:none
+}
+#divBelowDocument
+{
+  margin:auto;
+  text-align:left
+}
+#divBelowDocumentOuter
+{
+  clear:both;
+  text-align:center
+}
+#tblChooseBacksideButton
+{
+  margin:3px 0 15px 0
+}
+#prevUploadsLink
+{
+  margin-left:5px
+}
+#divFullBleedUpload h2
+{
+  margin-bottom:6px
+}
+#divUploadImageContent,
+#divFileInputFormField
+{
+  margin-bottom:10px
+}
+#divOptionalOptions
+{
+  margin-bottom:15px
+}
+#divOptionalOptions h3
+{
+  margin:10px 0 3px 0
+}
+#divOptionalOptions div.options
+{
+  margin-left:5px
+}
+#divFoilPreviewButton
+{
+  clear:both;
+  display:inline
+}
+#divSeeMoreDesigns
+{
+  margin-bottom:15px
+}
+#clearDefaultTextButton,
+#clearDefaultTextLink
+{
+  float:left;
+  margin-top:3px
+}
+#divChangeColorAndLayout,
+#divChooseAnotherDesign
+{
+  margin-top:3px;
+  display:inline
+}
+#clearDefaultTextButton
+{
+  margin-right:10px
+}
+#divOrderPDFProofLink
+{
+  margin:3px 10px 30px 10px
+}
+#clearDefaultTextLinkDisabled
+{
+  text-decoration:underline;
+  color:#999
+}
+#spnFullBleedCropReplace
+{
+  padding-left:90px
+}
+#spnFullBleedCropReplace #aCrop
+{
+  margin-right:20px
+}
+#divSaveForLaterButton
+{
+  padding-top:5px;
+  padding-bottom:5px
+}
+#divAdvancedButtonDesignTips
+{
+  clear:both;
+  margin-left:0;
+  margin-top:3px;
+  margin-bottom:10px;
+  width:auto;
+  text-align:left
+}
+#divOnlineProofApproval .withNeedHelp #tblOnlineProofApproval #tdOnlineApprovalIcon
+{
+  vertical-align:top
+}
+#divAdvancedButtonDesignTips .divAdvancedButtonDesignTipsLayoutTable,
+#divOnlineProofApproval .divOnlineProofApprovalLayoutTable
+{
+  width:100%
+}
+#divAdvancedButtonDesignTips .divAdvancedButtonDesignTipsLayoutTable .needHelpTd
+{
+  padding-left:8px
+}
+#divOnlineProofApproval .divOnlineProofApprovalLayoutTable .needHelpTd
+{
+  padding-right:8px;
+  width:25%
+}
+#divOnlineProofApproval .divOnlineProofApprovalLayoutTable .needHelpTd .vp-stylized-container .stylized-container-content
+{
+  vertical-align:middle
+}
+#divAdvancedButton
+{
+  float:left;
+  margin-left:20px;
+  width:305px;
+  margin-bottom:10px;
+  text-align:left
+}
+#advancedButtonContainer
+{
+  width:100%
+}
+#tblShowAdvancedIcon
+{
+  margin-left:4px
+}
+#tblShowAdvancedIcon #tdAdvancedEditingIcon
+{
+  width:72px
+}
+#tdAdvancedCalloutTextDesignTips
+{
+  padding-left:12px
+}
+#divEditorPageSelector
+{
+  float:right;
+  margin-bottom:10px;
+  margin-left:5px
+}
+#divEditorPageSelector .vp-stylized-container
+{
+  position:relative
+}
+#divOnlineProofApproval,
+#divBackAndNextButtons
+{
+  clear:both;
+  margin-bottom:10px
+}
+#divBackAndNextButtons #aBackButton
+{
+  float:left
+}
+#divBackAndNextButtons #aNextButton,
+#divBackAndNextButtons #imgNextButtonDisabled
+{
+  float:right
+}
+#tblBrochurePanelHeaders
+{
+  text-align:center;
+  width:100%
+}
+#tblBrochurePanelHeaders span
+{
+  background-color:#fff
+}
+#divBrochurePanelGuide h3
+{
+  margin-top:10px;
+  margin-bottom:8px
+}
+#divBrochurePanelGuide .light-blue-box
+{
+  margin-bottom:8px
+}
+#divBrochurePanelGuideLink
+{
+  text-align:left
+}
+#divBrochurePanelGuideLink a
+{
+  font-size:11px;
+  font-weight:bold
+}
+#divFolderLayoutGuide table.table-box
+{
+  margin:5px 0
+}
+#divViewLargerLink
+{
+  margin:10px
+}
+div.full-bleed-upload-links
+{
+  margin-top:10px;
+  margin-left:5px
+}
+.invisible
+{
+  position:absolute;
+  visibility:hidden
+}
+#divInlinePanel
+{
+  position:absolute;
+  border:solid 0 white
+}
+#divInlinePanel .panel-vertical
+{
+  width:5px
+}
+#divInlinePanel .panel-horizontal
+{
+  height:5px
+}
+#divInlinePanel .panel-table
+{
+  width:260px;
+  font-weight:bold;
+  margin-left:5px
+}
+#divInlinePanel #divFillColor,
+#divInlinePanel #divOutlineColor
+{
+  width:25px;
+  height:25px;
+  border:solid 1px black;
+  background-color:black;
+  margin-bottom:5px;
+  float:left
+}
+#divInlinePanel #divOutlineWeight
+{
+  width:25px;
+  height:25px;
+  background-image:url(data:image/gif;base64,R0lGODdhGQAZAPAAAAAAAP///ywAAAAAGQAZAAACQISPqRntD2MzYVlVgdyb8u944EddZqmdZjaCYiu9MISqC2tbeI7V/MGaxTTCiKy4+wF9yqQyBX1CM9IgMiRVFAAAOw==);
+  background-repeat:no-repeat
+}
+#divInlinePanel #divRotateLeft,
+#divInlinePanel #divRotateRight
+{
+  width:30px;
+  height:30px;
+  margin:0 3px 0 3px;
+  display:inline
+}
+#divInlinePanel .clickable
+{
+  cursor:pointer
+}
+#divWeightPanel
+{
+  position:absolute
+}
+#divWeightPanel .weight-cell
+{
+  width:35px;
+  height:20px;
+  vertical-align:middle;
+  text-align:center
+}
+#divWeightPanel .weight-number
+{
+  width:20px;
+  text-align:right;
+  padding-right:5px;
+  font-weight:normal
+}
+#divShapeEditorHelpContent
+{
+  overflow:auto;
+  margin-left:10px;
+  margin-right:10px
+}
+#divShapeEditorHelpContent .help-question
+{
+  font-size:11px;
+  font-weight:bold;
+  margin-top:10px;
+  display:block
+}
+#divShapeEditorHelpContent .help-answer
+{
+  font-size:11px;
+  font-weight:normal;
+  margin-bottom:10px;
+  display:block
+}
+#divDesignTipsButtons
+{
+  margin-top:5px
+}
+.design-tips-button
+{
+  margin:auto;
+  display:block;
+  position:inherit
+}
+#divAddMapButton
+{
+  margin-bottom:10px
+}
+.greekTextPopup
+{
+  background:#eff3fe none repeat scroll 0;
+  border:1px solid #000;
+  padding:0 8px 8px;
+  position:absolute;
+  text-align:left;
+  z-index:2;
+  width:300px
+}
+.greekTextPopupHeader
+{
+  font-size:14px;
+  font-weight:bold;
+  color:#2e2f91;
+  margin:1px;
+  padding-bottom:0
+}
+.greekAffiliation
+{
+  font-weight:bold
+}
+.greekButton
+{
+  cursor:pointer;
+  text-decoration:underline
+}
+.greekDropdownDiv
+{
+  background-color:#c3dbfd;
+  background-image:url(data:image/gif;base64,R0lGODlhAQAbALMAAPD2/ury/uPu/t7r/tno/tHj/crf/dbb78Xc/QAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAHAP8ALAAAAAABABsAAAQPEMgpgxViDEJKMQYiikcEADs=);
+  background-position:center top;
+  background-repeat:repeat;
+  border:1px solid #d7d9ee;
+  float:left;
+  height:27px;
+  padding-top:2px;
+  margin-left:1%;
+  margin-right:1%;
+  width:31%;
+  text-align:center
+}
+.closeDiv
+{
+  text-align:right
+}
+.closeLink
+{
+  cursor:pointer;
+  left:5px;
+  position:relative;
+  top:3px;
+  text-decoration:underline
+}
+#divAddArrowButton
+{
+  margin-top:10px;
+  margin-bottom:15px
+}
+.studioBacksideStepTitle
+{
+  font-size:14px;
+  font-weight:bold;
+  padding-top:5px;
+  padding-bottom:5px
+}
+#approvalAlertErrorMessage_content
+{
+  margin-top:10px;
+  display:block
+}
+#divPopupFontToolbar
+{
+  display:none;
+  background:#eff3fe;
+  border:1px solid #000;
+  padding:8px;
+  padding-top:0;
+  position:absolute;
+  text-align:left;
+  z-index:2
+}
+#divPopupFontToolbarShadow
+{
+  background:#000;
+  display:none;
+  filter:alpha(opacity=60);
+  opacity:.6;
+  position:absolute;
+  z-index:1
+}
+#divPopupFontToolbar #divCloseButton
+{
+  text-align:right
+}
+#divPopupFontToolbar #btnClose
+{
+  cursor:pointer;
+  cursor:hand;
+  position:relative;
+  left:5px;
+  top:3px
+}
+#divPopupFontToolbar div.option-set
+{
+  float:left
+}
+#divPopupFontToolbar div.option-set h3
+{
+  font-size:11px;
+  margin:0 0 3px 0;
+  color:#000
+}
+#divPopupFontToolbar #divFontFamily,
+#divPopupFontToolbar #divFontButtons
+{
+  background-image:url(data:image/gif;base64,R0lGODlhAQAbALMAAPD2/ury/uPu/t7r/tno/tHj/crf/dbb78Xc/QAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAHAP8ALAAAAAABABsAAAQPEMgpgxViDEJKMQYiikcEADs=);
+  background-position:top;
+  background-repeat:repeat;
+  background-color:#c3dbfd;
+  border:1px solid #d7d9ee;
+  padding:2px
+}
+#divPopupFontToolbar #divFontFamily,
+#divPopupFontToolbar #divFontSize,
+#divPopupFontToolbar #divFontButtons
+{
+  padding:0;
+  padding-left:3px
+}
+#divPopupFontToolbar #divOptionFontFamily,
+#divPopupFontToolbar #divOptionFontSize
+{
+  margin-right:8px
+}
+#divPopupFontToolbar #divFontFamily
+{
+  width:126px
+}
+#divPopupFontToolbar #divFontSize
+{
+  width:46px
+}
+#divPopupFontToolbar #divFontButtons
+{
+  width:69px
+}
+#divPopupFontToolbar #divFontButtons a
+{
+  display:block;
+  cursor:pointer;
+  cursor:hand;
+  float:left;
+  padding:1px
+}
+#divPopupFontToolbar #divFontButtons a:hover,
+#divPopupFontToolbar #divFontButtons a.active
+{
+  background:#dfdfdf;
+  padding:0;
+  border:1px solid #08246b
+}
+#divPopupFontToolbar #divFontButtons a.active:hover
+{
+  background:#b6bdd2
+}
+#divPopupFontToolbar #divFontButtons a.disabled,
+#divPopupFontToolbar #divFontButtons a.disabled:hover
+{
+  background:none;
+  border:none;
+  cursor:default;
+  filter:alpha(opacity=50);
+  opacity:.5;
+  padding:1px
+}
+#divPopupFontToolbarShadow
+{
+  background:#000;
+  display:none;
+  filter:alpha(opacity=60);
+  opacity:.6;
+  position:absolute;
+  z-index:1
+}
+#divPopupFontToolbar .toolbarBackground
+{
+  background-color:#c3dbfd;
+  background-image:url(data:image/gif;base64,R0lGODlhAQAbALMAAPD2/ury/uPu/t7r/tno/tHj/crf/dbb78Xc/QAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAHAP8ALAAAAAABABsAAAQPEMgpgxViDEJKMQYiikcEADs=);
+  background-position:center top;
+  background-repeat:repeat;
+  border:1px solid #d7d9ee;
+  padding:2px;
+  height:28px
+}
+#divPopupFontToolbar .studioToolbarItem
+{
+  padding:0
+}
+#aChooseBacksideButton
+{
+  font-weight:bold;
+  cursor:pointer
+}
+.left-column-stylized-container
+{
+  padding-bottom:10px
+}
+.right-footer-button
+{
+  clear:right;
+  float:right;
+  margin-top:10px
+}
+#divTopRowContainer
+{
+  width:100%;
+  height:90px
+}
+#divStudioToolbarOuterContainer.toolbar-fixed
+{
+  position:fixed;
+  top:0;
+  z-index:3
+}
+#divStudioToolbarWrapper
+{
+  margin-bottom:5px
+}
+.inside-outside-links
+{
+  padding-top:5px;
+  float:right;
+  font-weight:bold
+}
+.inside-outside-links a
+{
+  font-weight:normal
+}
+#divBrochurePanelGuideOutside .panel-text,
+#divBrochurePanelGuideInside .panel-text
+{
+  padding-top:10px;
+  text-align:left
+}
+#divBrochurePanelGuideOutside .panel-images,
+#divBrochurePanelGuideInside .panel-images
+{
+  padding-top:20px
+}
+#duplicateThisDesignButton
+{
+  float:right;
+  margin-right:10px
+}
+.resolution-warnings-text
+{
+  color:#d1005d;
+  font-weight:bold;
+  padding:5px
+}
+.resolution-warnings img
+{
+  float:left;
+  margin-top:-8px;
+  padding:10px
+}
+#divFontMenu
+{
+  height:320px;
+  width:170px;
+  cursor:default;
+  background-color:#f2f9fd;
+  z-index:501;
+  position:absolute;
+  top:22px;
+  display:none;
+  border:1px solid #000;
+  padding-bottom:4px
+}
+#divFontSelector
+{
+  z-index:500;
+  margin-bottom:7px
+}
+.divCategoryMenuContainer
+{
+  position:absolute;
+  left:168px;
+  top:-1px;
+  padding:2px;
+  background-color:#fff;
+  border:1px black solid;
+  z-index:502;
+  height:320px;
+  width:200px;
+  overflow-y:scroll;
+  overflow-x:hidden;
+  cursor:pointer
+}
+.divCategoryMenuElement
+{
+  cursor:pointer;
+  height:20px;
+  clear:both;
+  vertical-align:middle
+}
+.divFontHeader
+{
+  background-color:#cae8f9;
+  margin:0;
+  width:100%;
+  clear:both;
+  height:30px
+}
+.divFontHeader h3
+{
+  margin:0
+}
+.divFontFooter
+{
+  padding:5px;
+  clear:both
+}
+.divFontItem
+{
+  width:180px;
+  z-index:503
+}
+.spanCategoryName
+{
+  font-weight:bold
+}
+.divCategoryText
+{
+  float:left;
+  padding:5px
+}
+.divArrow
+{
+  padding:5px;
+  float:right
+}
+.divFontHeaderContent
+{
+  float:left;
+  margin:8px 4px;
+  width:130px
+}
+.divFontHeaderImage
+{
+  margin:4px;
+  float:right;
+  width:22px;
+  text-align:right
+}
+#imgFontHelp
+{
+  cursor:pointer
+}
+.instruction-string
+{
+  font-size:11px;
+  font-weight:bold
+}
+.instruction-box
+{
+  margin:4px 0 5px 0
+}
+.bilingual-instruction
+{
+  font-size:12px;
+  font-weight:bold;
+  color:#ff7900
+}
+#divApprovalBoxContent
+{
+  margin-top:10px
+}
+div.design-option-container
+{
+  margin-top:11px;
+  margin-bottom:11px;
+  position:relative
+}
+.design-option-icon
+{
+  width:23px;
+  float:left
+}
+.design-option-icon img
+{
+  vertical-align:middle
+}
+.left-nav-button
+{
+  margin:2px 0;
+  cursor:pointer
+}
+.left-nav-button-group
+{
+  padding-bottom:10px;
+  border-bottom:1px dotted #bec3c5
+}
+.left-nav-jp-pdf-link
+{
+  padding:0 17px;
+  vertical-align:middle;
+  float:left;
+  cursor:pointer
+}
+#bottomRuler
+{
+  float:left
+}
+#rightRuler
+{
+  float:right
+}
+#rulerControl
+{
+  width:18px;
+  height:18px;
+  float:right;
+  cursor:pointer;
+  background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASAQMAAABsABwUAAAABlBMVEX///9BnM0cu0+SAAAAFUlEQVR42mP4//8AAz78gRmCCagDAKrKL0cwZFFcAAAAAElFTkSuQmCC) no-repeat 0 0
+}
+#rulerControl.show
+{
+  background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASAQMAAABsABwUAAAABlBMVEX///9BnM0cu0+SAAAAGUlEQVR42mP4//8AAwq2R8UfmCEYXRxNHwDSuylH/HjGAQAAAABJRU5ErkJggg==) no-repeat 0 0
+}
+.maps .exhortation-merchandising
+{
+  padding-bottom:0
+}
+.step-indicator-container
+{
+  width:100%;
+  border-bottom:1px solid #bec3c5
+}
+.step-indicator
+{
+  float:right
+}
+.product-option-menu-container
+{
+  padding-bottom:10px
+}
+#divFeedbackContainer
+{
+  margin-top:15px
+}
+a.holiday-verse-link
+{
+  background:url(data:image/gif;base64,R0lGODlhBAAIAIAAAP///wBTnyH5BAEHAAAALAAAAAAEAAgAAAIJDB4Gaey+lAIFADs=) no-repeat scroll right center transparent;
+  padding-right:10px;
+  padding-bottom:3px;
+  vertical-align:middle
+}
+.need-help
+{
+  top:192px
+}
+div.facebookLink img
+{
+  vertical-align:middle;
+  padding-right:5px
+}
+#divBlankTemplateToolbarTooltip
+{
+  text-align:left;
+  margin-left:3px
+}
+#suggestedWeddingCopyContainer
+{
+  width:210px;
+  padding:5px 0
+}
+#suggestedWeddingCopyContainer img
+{
+  vertical-align:middle;
+  margin:5px 4px 5px 0
+}
+#divMailMaskToggleContainer
+{
+  float:right;
+  margin:5px 10px 0 0
+}
+#divMailMaskToggleContainer input
+{
+  float:left
+}
+#divMailMaskToggleContainer .mail-mask-toggle-text
+{
+  float:left;
+  width:150px;
+  margin-left:5px
+}
+.low-resolution-warning-icon
+{
+  position:absolute;
+  top:8px;
+  right:8px
+}
+.resolution-warning-tooltip-content
+{
+  text-align:left;
+  margin:5px
+}
+.qrCodeLeftCol
+{
+  width:23px;
+  float:left
+}
+.qrCodeRightCol
+{
+  width:187px;
+  float:left
+}
+.clearColumns
+{
+  clear:both
+}
+#section-title
+{
+  margin-top:0
+}
+#divBrochurePanelGuideLink a,
+#viewDemo .box-right,
+#viewDemo .box-left,
+#divShapeEditorHelpContent .help-question,
+#divShapeEditorHelpContent .help-answer,
+#divPromoAd .sticky-note-category-link,
+.instruction-string,
+div.design-option-container
+{
+  font-size:inherit
+}
+#divPromoAd #divStickyLinkHeader,
+#divPopupFontToolbar div.option-set h3
+{
+  font-size:12px
+}
+div[unselectable=on]
+{
+  -moz-user-select:none;
+  -khtml-user-select:none;
+  -webkit-user-select:none;
+  -o-user-select:none;
+  user-select:none
+}
+div.page-content-inner-container
+{
+  left:5px;
+  width:695px
+}
+#divStudioDocumentScrollArea
+{
+  position:absolute;
+  text-align:center;
+  z-index:1
+}
+.emphasis
+{
+  font-weight:bold;
+  font-size:13px
+}
+#divStudioDocumentScrollAreaPlaceholder
+{
+  width:10px;
+  clear:both
+}
+#divStudioDocumentZoomArea
+{
+  margin:0 auto
+}
+#divStudioDocumentAreaContainer
+{
+  position:relative
+}
+#divStudioDocumentArea
+{
+  overflow:hidden;
+  left:0;
+  top:0;
+  position:absolute;
+  z-index:0
+}
+#divStudioDocumentItemHandleArea
+{
+  overflow:hidden;
+  left:0;
+  top:0;
+  position:absolute;
+  z-index:2
+}
+#tblColumns
+{
+  position:relative;
+  width:100%;
+  border-collapse:collapse;
+  margin-top:5px
+}
+.smartTag
+{
+  background-color:white;
+  border:1px solid black;
+  visibility:hidden;
+  z-index:9999;
+  position:absolute;
+  padding:5px;
+  white-space:nowrap;
+  cursor:pointer
+}
+.smartTag .caption
+{
+  margin:3px;
+  vertical-align:middle
+}
+.contextMenu
+{
+  position:absolute;
+  border:1px solid black;
+  background-color:white;
+  padding:2px;
+  z-index:100000;
+  min-width:150px;
+  text-align:left
+}
+.contextMenu .contextMenuTitle
+{
+  padding:4px;
+  cursor:default;
+  font-weight:bold
+}
+.contextMenu div.contextMenuTitle
+{
+  text-align:center
+}
+.contextMenu div.contextMenuTitle:hover
+{
+  background-color:white;
+  border:1px solid white
+}
+.contextMenu .contextMenuItem:hover
+{
+  background-color:#b6bdd2;
+  border:1px solid #0a246a
+}
+.contextMenu .contextMenuItem
+{
+  overflow:auto;
+  border:1px solid white;
+  background-color:white;
+  text-align:left;
+  cursor:default
+}
+.contextMenu .contextMenuItem dd
+{
+  float:left;
+  width:24px;
+  margin-left:4px
+}
+.contextMenu .contextMenuItem img
+{
+  align:center;
+  margin-top:4px
+}
+.contextMenu .contextMenuItem dt
+{
+  float:left;
+  text-align:left;
+  padding:4px
+}
+.tabletStudio .smartTag
+{
+  padding:18px
+}
+.tabletStudio .contextMenuItem
+{
+  padding:5px 0
+}
+.tabletStudio #approvalCheckBox
+{
+  -ms-transform:scale(1.5);
+  -moz-transform:scale(1.5);
+  -webkit-transform:scale(1.5);
+  -o-transform:scale(1.5);
+  padding:10px
+}
+.tabletStudio.android #approvalCheckBox
+{
+  -ms-transform:scale(1.5);
+  -moz-transform:scale(1.5);
+  -webkit-transform:scale(3);
+  -o-transform:scale(1.5);
+  padding:10px
+}
+.tabletStudio.mobilechrome.IOs #approvalCheckBox
+{
+  height:2px;
+  width:2px;
+  padding:7px
+}
+.tabletStudio.mobilesafari #approvalCheckBox
+{
+  height:2px;
+  width:2px;
+  padding:7px
+}
+.tabletStudio.mobilesafari label.studioApprovalLabel
+{
+  padding:5px
+}
+.tabletStudio #divStudioTextFields .studioTextField
+{
+  font-size:20px;
+  line-height:30px
+}
+.tabletStudio .pageSelectorLinkCell
+{
+  padding:10px
+}
+.tabletStudio .linksBelowDocument
+{
+  display:inline-block;
+  margin-top:25px;
+  font-weight:bold
+}
+.tabletStudio .linksBelowDocument .verticalDivider
+{
+  padding:0 5px
+}
+.studioToolbarSectionContainer
+{
+  height:76px;
+  float:left;
+  padding-left:5px
+}
+#divStudioStylizedToolbarContainer
+{
+  margin-bottom:10px;
+  width:100%
+}
+#divStudioStylizedToolbarContainer
+{
+  margin-bottom:10px;
+  width:100%
+}
+.studioStylizedToolbarSectionContainer
+{
+  height:76px;
+  float:left
+}
+.studioSectionedToolbar
+{
+  width:100%;
+  height:76px;
+  background-image:url(data:image/gif;base64,R0lGODlhAQBJALMAAP////v7+/f39/Pz8+/v7+vr6+fn5+Pj49/f39vb2wAAAAAAAAAAAAAAAAAAAAAAACH5BAAHAP8ALAAAAAABAEkAAAQhEIhBik0JoXNMIYMgBGQZiGiaDmzLGnDsWR9hg61IAkAEADs=)
+}
+.studioStylizedSectionedToolbar
+{
+  width:100%;
+  height:76px
+}
+.studioSectionedToolbarLeftCap
+{
+  background-image:url(data:image/gif;base64,R0lGODlhBwBJALMAAP////v7+/f39/Pz8+/v7+vr6+fn5+Pj49/f39vb2wAAAAAAAAAAAAAAAAAAAAAAACH5BAAHAP8ALAAAAAAHAEkAAASVEMhJg7jSjg30IAQgbGChleZIFGwwFAeSJMEay25h3PkeuysfULezrIgnVooE6ow2g47lIsgErlXrtXLter/gsPhLFXTLZ+oUXb6s1e24fE6vy6FlPFUP3Vz6A399gniAL0QGiSyJjIuMBo6MR49HiJWSlSwoSiCZH5ufnQRMnVCipqWoo4ZPg61+e7BtaW5jXhS4uBEAOw==);
+  float:left;
+  width:7px;
+  height:73px
+}
+.studioSectionedToolbarRightCap
+{
+  background-image:url(data:image/gif;base64,R0lGODlhBwBJALMAAP////v7+/f39/Pz8+/v7+vr6+fn5+Pj49/f39vb2wAAAAAAAAAAAAAAAAAAAAAAACH5BAAHAP8ALAAAAAAHAEkAAASYEMgJhA1zaIEBIRtWfBtQjCB3jgOXJMhRDAEcjwESG3N+HDzajwcKAIk0A2+kOqUCH1AroAlVLBxMNtDhcideindMLpvPXOxW7WWn1Rx4HB6Q1+X4vH4vqKr9WIAWVRt9hIOHhoCEG0qOJ45KkJGTjwWUI5aZkk4rTgSeKJ5RK1EDUaaoUqhVrBqmjLGMioWCfFtoZBS7uxEAOw==);
+  float:right;
+  width:7px;
+  height:73px
+}
+.studioToolbarSectionLabel
+{
+  clear:both;
+  height:15px;
+  margin-top:5px;
+  text-align:left;
+  font-weight:bold;
+  padding-left:3px
+}
+.studioToolbarSectionDivider,
+.studioToolbarHelpSectionDivider
+{
+  margin-top:3px;
+  width:2px;
+  height:68px;
+  background-image:url(data:image/gif;base64,R0lGODlhAgABAIAAAP///7KysiH5BAAHAP8ALAAAAAACAAEAAAICRAoAOw==);
+  float:left
+}
+.studioToolbarHelpSectionDivider
+{
+  margin-top:0;
+  height:76px
+}
+.studioToolbarHelpContainer
+{
+  height:76px;
+  width:45px;
+  float:right;
+  background-image:url(data:image/gif;base64,R0lGODlhLQBMANUAAAAAAOHk5M7U1Ke1t294dTMzM+/v78XFxff395mZmVNZWBkZGd7e3v///4OMir29vczMzENISZ+srggICCkpKWZmZpWipHaAgTs5OgoOCoSUlKOrqkxSUqWlpSAgILW1tXd3d5mZmWZmZnN8eQ0NDUFBQaWttenr64GBgZmZmYuLi7zCwWZmZktKS3t7eywwMObm5tfX17S6uXqEgomUkxoeGlJSUq+1tK+vr1tbW2dwbgAAAAAAAAAAAAAAAAAAACH5BAAHAP8ALAAAAAAtAEwAAAb/wIZwSCwaj8hkEcFsOp/QaBQprVqviCV2y80Ou+CrMEyWjsvo5tnANpxgAYZ8Tq/b7/PAyeA0wPGAgXh6fExvcYKJiTB7TScnAYiKk3aMhQhucJGbnJ2en6CPl26HoKann3ujmTCtrq+wsbKyqk1sj7i5uru8vaJstm3Cw8TFxsV9x8rLy0zMz9DCmNHU1dbX2NnGvtzd3t/g4eLj5OXm5+jp6uvs7e7v8Oaz8/T19vf4+fr7/P3+/wA1ofIUQ0WJBQAyFAAhYKDDUwlqlJhhYYAEBxwyoHjIkZOOAhckiBwpgUYEGwwcpuQIIoIFkjAlRMihktIGABos6NwgoBUE/506XySgpOhFhQRILZwgEgBpAh0UiArqQIGGVRoQGpxAaqDBjatCpQLKwcGBWQcyYmwwu6LBirMKUIq940HHjLt47zqA4RWvDg9z70wgMKKw4REzAjQIcJjAhMB2EmaYTDnDgwYQalTOAEBQjA+gQ4sWTWKC6dMTMDQwsAC16QWjY8ueXcC16RYNHtie8GK2b98VANhe0ALD7hy/k4/usBu3btsdlMuYTr26dRu2nduOYL379Afgw4sfj6P1btckOoxfz759eBrnUQNA4b6+/Qcq4k8AAOJ++AMABijggAFSJZxrC9BA4IIMNkigQR4AsEABLjzg4IUYZqghgBB06FThhyCGKOKIJJZo4oknCqDiiiy26OKLMMYo44w00hjDjTjmqOOOPPbo449ABinkkEQSCdmRDMSA5JJMitXRk6isBOWUVFZp5ZWnBKTlllx26WWXQQAAOw==)
+}
+.studioStylizedToolbarHelpContainer
+{
+  float:right;
+  height:100%;
+  width:25px;
+  padding-left:3px;
+  vertical-align:middle
+}
+.studioStylizedToolbarHelpCornerContainer
+{
+  float:right;
+  margin-top:-75px;
+  margin-right:3px
+}
+#studioStylizedToolbarHelpButton
+{
+  margin-top:27px
+}
+#studioToolbarHelpLabel
+{
+  position:relative;
+  font-weight:bold;
+  padding:5px;
+  width:100%
+}
+.dropdown-button-image
+{
+  position:relative;
+  margin-left:-1px
+}
+.studioToolbar
+{
+  padding:0 2px;
+  background-color:#c3dbfd;
+  background-image:url(/ig/vgradient.caspx?h=28&tc=ffffff&bc=C3DBFD);
+  background-repeat:repeat;
+  background-position:top
+}
+.studioMiniToolbar
+{
+  margin:7px 0;
+  padding:0 2px
+}
+.studioToolbarOuterContainer
+{
+  position:relative;
+  z-index:3;
+  margin-bottom:10px
+}
+.studioStylizedToolbarContainer
+{
+  position:relative;
+  z-index:3
+}
+.floatingPanel .studioToolbarContainer
+{
+  background-color:white
+}
+.studioMiniToolbarContainer
+{
+  overflow:hidden
+}
+.studioToolbarItem
+{
+  position:relative;
+  float:left;
+  padding:1px
+}
+.studioStylizedToolbarItem
+{
+  position:relative;
+  float:left
+}
+.floatingPanel .studioRichTextField
+{
+  height:100%;
+  word-wrap:break-word
+}
+.ie7 .richTooltipWrapper
+{
+  height:50%
+}
+.richTooltipWrapper.noSize .studioRichTextField
+{
+  font-size:20px!important
+}

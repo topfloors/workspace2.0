@@ -1,0 +1,24 @@
+#divLeftColumn,
+#tdEditorTextFields
+{
+  width:220px
+}
+#divTwoColumnLayout
+{
+  width:926px
+}
+#divTwoColumnLayout #tdContentColumn
+{
+  width:701px;
+  padding:0
+}
+#divTwoColumnLayout #tdLeftColumn,
+#divBrochureLayout #tdLeftColumn
+{
+  width:220px;
+  padding:0 5px 0 0
+}
+.page-content-inner-container
+{
+  left:16px
+}

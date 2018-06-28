@@ -1,0 +1,109 @@
+#divOnlineProofApproval
+{
+  width:100%
+}
+#tblOnlineProofApproval
+{
+  width:100%
+}
+#divApprovalBoxInline
+{
+  margin-top:5px;
+  margin-bottom:5px;
+  padding:0 5px
+}
+#txtInitials
+{
+  width:40px;
+  margin-left:10px
+}
+#tblOnlineProofApprovalInner
+{
+  width:100%;
+  margin-left:4px;
+  margin-top:5px
+}
+#divApprovalCheckBox
+{
+  font-weight:bold;
+  text-align:left
+}
+#divApprovalBoxInlineTitle
+{
+  font-size:14px;
+  font-weight:bold;
+  margin-bottom:6px
+}
+#tdOnlineApprovalIcon
+{
+  text-align:center;
+  vertical-align:middle;
+  width:72px
+}
+#tdOnlineApprovalText
+{
+  padding-left:6px
+}
+#divApprovalBoxBelowCheckBoxContentTitle
+{
+  font-weight:bold;
+  margin-top:12px;
+  margin-left:5px
+}
+#divApprovalBoxBelowCheckBoxContentBody
+{
+  margin:2px 5px 8px 5px
+}
+#approvalErrorContent
+{
+  text-align:left;
+  padding:5px
+}
+.approve-button
+{
+  vertical-align:middle;
+  padding:0 5px;
+  cursor:pointer
+}
+.approval-error-header
+{
+  margin-bottom:0
+}
+#tblOnlineProofApproval .need-help-offer
+{
+  width:200px
+}
+#tblOnlineProofApproval .need-help-content
+{
+  font-weight:bold
+}
+#tblOnlineProofApproval .need-help-new
+{
+  font-weight:bold;
+  color:#055a1c
+}
+#tblOnlineProofApproval .approval-check-box-container
+{
+  margin-left:80px;
+  margin-top:10px;
+  margin-bottom:10px;
+  font-weight:bold
+}
+#tblOnlineProofApproval .approval-check-box-container-de
+{
+  border-top:1px dotted #bcbcbc;
+  border-bottom:1px dotted #bcbcbc;
+  margin:10px 5px;
+  padding:10px 0
+}
+#tblOnlineProofApproval .approval-box-title
+{
+  font-weight:bold;
+  font-size:14px;
+  padding-bottom:10px
+}
+#tblOnlineProofApproval .approval-box-list
+{
+  padding-left:20px;
+  margin:0
+}

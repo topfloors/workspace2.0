@@ -1,0 +1,28 @@
+.library-images
+{
+  text-align:center
+}
+.library-images .loading-images,
+.library-images .loaded-images,
+.library-images .show-images,
+.library-images .no-images
+{
+  display:none
+}
+.library-images .search-header
+{
+  text-align:left;
+  width:350px;
+  margin-left:auto;
+  margin-right:auto;
+  padding:10px 0
+}
+.library-images .search-word
+{
+  width:200px
+}
+.library-images .no-images,
+.library-images .loading-images
+{
+  padding:100px 0
+}

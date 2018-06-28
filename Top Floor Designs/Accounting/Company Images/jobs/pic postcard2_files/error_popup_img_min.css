@@ -1,0 +1,236 @@
+.offendingText
+{
+  font-weight:bold
+}
+div.error-page-error
+{
+  padding:3px
+}
+.error-page-highlight
+{
+  background-color:Yellow
+}
+.error-page-icon
+{
+  margin-right:10px;
+  vertical-align:top
+}
+#errorTitle
+{
+  color:#2e2f91;
+  font-size:18px;
+  font-weight:bold;
+  margin-bottom:20px
+}
+#nextButton,
+#doneButton
+{
+  margin:2px;
+  float:right
+}
+#backButton,
+#cancelButton
+{
+  margin:2px;
+  float:left
+}
+div.separator
+{
+  background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAEklEQVQIHWM6fPjwEiZzc/NoABiSA/JdAfb+AAAAAElFTkSuQmCC);
+  background-repeat:repeat-x;
+  padding-bottom:10px
+}
+#validationErrors .hidden
+{
+  position:absolute;
+  top:0;
+  left:0;
+  visibility:hidden
+}
+#typoPageContainer
+{
+  font-family:Arial;
+  font-weight:normal;
+  color:Black;
+  width:320px
+}
+#typoPageContainer table
+{
+  width:100%
+}
+#typoPageContainer .bottom
+{
+  vertical-align:bottom;
+  text-align:left;
+  padding-left:20px;
+  padding-bottom:5px;
+  padding-top:10px
+}
+#typoPageContainer .title
+{
+  font-family:Arial;
+  font-weight:bold;
+  color:Black
+}
+#typoPageContainer .blue-line
+{
+  height:1px;
+  background-color:#2e2f91
+}
+#typoPageContainer .viewall
+{
+  color:#2e2f91;
+  font-weight:bold;
+  margin-left:10px
+}
+#typoPageContainer #txtTypoFullText,
+#txtChanges
+{
+  height:80px;
+  width:250px;
+  overflow:auto;
+  border:solid 1px #999
+}
+#txtChanges
+{
+  width:320px
+}
+#typoPageContainer select,
+#typoPageContainer input
+{
+  width:250px;
+  border:solid 1px #999
+}
+#typoPageContainer select
+{
+  height:80px
+}
+#typoPageContainer input
+{
+  height:30px;
+  padding-top:5px
+}
+#typoPageContainer .space-above-line
+{
+  height:25px
+}
+#typoPageContainer #lblStatus
+{
+  margin-left:50px;
+  margin-right:10px
+}
+#txtTypoFullText
+{
+  background-color:#fff
+}
+#typoPageContainer select,
+input,
+#lblStatus,
+#txtTypoFullText,
+#txtChanges,
+.title
+{
+  margin-bottom:5px;
+  margin-top:5px
+}
+#typoPageContainer .typo
+{
+  background-color:#ff9
+}
+#typoPageContainer .right
+{
+  padding-left:200px
+}
+#typoPageContainer .completion-close-button a
+{
+  float:right;
+  width:140px;
+  display:block;
+  margin-top:10px
+}
+#typoPageContainer .arrow
+{
+  background-image:url(data:image/gif;base64,R0lGODlhGgAHALMAAC4vkdbZ6dHV5+Pn8JeayIqMwams0nx+unZ4t9/i7ujr8+zw9QAAAAAAAAAAAAAAACH5BAEAAAsALAAAAAAaAAcAAAQicMlJqw02awrK2CAHAMYCmOhoniPbvgASgi2hzFuc4KBARQA7);
+  background-position:center;
+  background-repeat:no-repeat;
+  width:70px
+}
+#typoPageContainer #completionPage
+{
+  width:260px
+}
+#bodyPage
+{
+  background:transparent none repeat scroll 0 50%
+}
+#studioPopupHeader
+{
+  display:none
+}
+#wordSubtitutionValidationContainer
+{
+  padding-left:10px;
+  padding-right:10px;
+  position:relative
+}
+#wordSubtitutionValidationContainer .title
+{
+  font-weight:bold;
+  padding-top:5px
+}
+#wordSubtitutionValidationContainer .instructions
+{
+  padding-bottom:5px
+}
+#wordSubtitutionValidationContainer .field-name
+{
+  text-align:right;
+  padding-right:10px
+}
+#wordSubtitutionValidationContainer input
+{
+  width:200px
+}
+td.error-icon
+{
+  vertical-align:text-top;
+  padding-top:10px
+}
+div.unsubstituted-text-list
+{
+  background-color:#eee;
+  border-color:#999;
+  border-width:1px;
+  border-style:solid;
+  margin-top:5px;
+  margin-bottom:15px;
+  margin-top:10px;
+  padding-right:10px
+}
+div.unsubstituted-text-list ul li
+{
+  background-image:url(data:image/gif;base64,R0lGODdhBQAFAPIAACyZ2mS05IDC6cfk9f///7nd8/H4/Z3P7iwAAAAABQAFAAADDUhzQwWwBAiCoMLMYBIAOw==);
+  background-position:0 5px;
+  background-repeat:no-repeat;
+  padding-left:12px;
+  margin-left:-15px;
+  list-style-type:none;
+  padding-bottom:3px
+}
+div.error-field-item
+{
+  padding-bottom:5px
+}
+.error-field-label
+{
+  font-weight:bold;
+  padding-bottom:2px
+}
+.error-field-text
+{
+  padding-bottom:2px
+}
+.highlight-error
+{
+  font-weight:bold
+}

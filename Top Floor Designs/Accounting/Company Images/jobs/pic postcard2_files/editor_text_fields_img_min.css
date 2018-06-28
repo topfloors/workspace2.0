@@ -1,0 +1,77 @@
+#divStudioTextFields
+{
+  width:175px
+}
+.studioTextField
+{
+  width:174px;
+  font-family:Arial;
+  font-size:10px;
+  background-color:White;
+  white-space:-moz-pre-wrap;
+  white-space:-pre-wrap;
+  white-space:-o-pre-wrap;
+  word-wrap:break-word;
+  white-space:pre-wrap
+}
+.studioTextFieldWithDatePicker
+{
+  width:144px;
+  font-family:Arial;
+  font-size:10px;
+  float:left
+}
+.studioTextFieldLabel
+{
+  margin-top:1px;
+  width:174px;
+  display:block
+}
+.studioPhoneOfferLink
+{
+  margin-right:5px;
+  float:right;
+  display:none
+}
+.studioTextFieldContainer
+{
+  width:174px;
+  overflow:hidden
+}
+.studioTextFieldDropDown
+{
+  width:174px;
+  border:solid 1px black;
+  margin-bottom:4px
+}
+.clear-text-field-container
+{
+  padding-top:3px;
+  float:left
+}
+.studioRichTextFieldDisableStyles,
+.studioRichTextFieldDisableStyles p,
+.studioRichTextFieldDisableStyles span,
+.studioRichTextFieldDisableStyles ul,
+.studioRichTextFieldDisableStyles li,
+.studioRichTextFieldDisableStyles div
+{
+  font-size:10px!important;
+  font-family:Arial!important;
+  font-weight:normal!important;
+  font-style:normal!important;
+  color:black!important;
+  text-align:left!important
+}
+.studioRichTextField
+{
+  margin-top:0;
+  margin-bottom:0;
+  outline:none;
+  cursor:auto
+}
+.studioRichTextField p
+{
+  margin-top:0;
+  margin-bottom:0
+}

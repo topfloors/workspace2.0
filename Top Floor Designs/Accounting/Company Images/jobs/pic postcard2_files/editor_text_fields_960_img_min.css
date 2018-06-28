@@ -1,0 +1,66 @@
+#divStudioTextFields
+{
+  width:220px
+}
+.studioTextField
+{
+  width:213px
+}
+.studioTextFieldBoxModel
+{
+  width:209px
+}
+.studioTextFieldLabel
+{
+  width:215px
+}
+.studioTextFieldContainer
+{
+  width:215px;
+  margin-bottom:6px
+}
+.studioTextFieldDropDown
+{
+  width:215px
+}
+.studio-website-offer-panel
+{
+  text-align:right;
+  margin-top:-7px;
+  margin-right:10px
+}
+.studio-website-offer-panel a
+{
+  font-weight:bold
+}
+.website-offer-triangle-span
+{
+  color:#00539f;
+  margin-left:2px
+}
+input.studioTextFieldLabel
+{
+  width:210px;
+  border:1px solid gray;
+  padding:2px 0
+}
+.text-field-with-editable-properties
+{
+  cursor:pointer;
+  cursor:-moz-grab;
+  cursor:-webkit-grab;
+  cursor:grab;
+  padding:2px;
+  border:1px solid transparent;
+  background-color:white;
+  font-size:10px
+}
+.text-field-with-editable-properties input
+{
+  cursor:auto;
+  font-size:10px
+}
+.text-field-with-editable-properties:hover
+{
+  border:1px dashed gray
+}

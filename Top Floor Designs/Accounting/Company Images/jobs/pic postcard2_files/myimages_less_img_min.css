@@ -1,0 +1,139 @@
+.my-images
+{
+  text-align:center
+}
+.my-images .not-logged-in-force,
+.my-images .not-logged-in-allow,
+.my-images .authenticated,
+.my-images .loading-images,
+.my-images .loaded-images,
+.my-images .show-images,
+.my-images .back-to-albums .my-images .show-albums,
+.my-images .no-images
+{
+  display:none
+}
+.my-images .image-types
+{
+  text-align:left;
+  padding-bottom:10px
+}
+.my-images .image-types input,
+.my-images .image-types label
+{
+  cursor:pointer;
+  cursor:hand;
+  margin-top:5px;
+  margin-bottom:5px
+}
+.my-images .back-to-albums
+{
+  text-align:left
+}
+.my-images .not-logged-in-allow
+{
+  padding-bottom:12px
+}
+.my-images .not-logged-in-force,
+.my-images .no-images-message
+{
+  padding:48px 0
+}
+.my-images .no-images-message
+{
+  font-weight:bold
+}
+.my-images .not-logged-in-force .callout,
+.my-images .not-logged-in-allow .callout
+{
+  padding-bottom:4px
+}
+.my-images .item-paginator
+{
+  padding-bottom:10px
+}
+.my-images .item-list
+{
+  position:relative;
+  overflow:hidden;
+  margin-left:auto;
+  margin-right:auto
+}
+.my-images .vp-widget-paginator-container
+{
+  margin-left:auto;
+  margin-right:auto
+}
+.my-images .item-container
+{
+  float:left;
+  position:relative;
+  text-align:center;
+  vertical-align:top;
+  border:1px solid #fff
+}
+.my-images .image-container
+{
+  cursor:pointer;
+  cursor:hand
+}
+.my-images .album-container .item-preview
+{
+  cursor:pointer;
+  cursor:hand
+}
+.my-images .item-list
+{
+  width:inherit;
+  padding:0
+}
+.my-images .item-container
+{
+  width:100px;
+  height:100px;
+  padding:5px;
+  margin:10px
+}
+.my-images .album-container
+{
+  padding:0;
+  margin:10px 15px 20px 15px
+}
+.my-images .image-container .item-preview
+{
+  width:100px;
+  height:100px
+}
+.my-images .item-container.hovered
+{
+  border:1px solid Silver
+}
+.my-images .item-container.selected
+{
+  border:1px solid #2c99da
+}
+.my-images .checkmark-overlay
+{
+  position:absolute;
+  left:11px;
+  top:11px;
+  z-index:1;
+  display:none
+}
+.my-images .disabled .checkmark-overlay
+{
+  display:block
+}
+.my-images div.jquery-drag-to-select
+{
+  display:none;
+  opacity:.3;
+  filter:alpha(opacity=30);
+  z-index:10;
+  background:#def;
+  border:1px solid #369
+}
+.my-images div.jquery-drag-to-select.active
+{
+  display:block
+}

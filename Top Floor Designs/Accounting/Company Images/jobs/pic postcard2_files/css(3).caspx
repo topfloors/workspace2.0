@@ -1,0 +1,586 @@
+.upload-input
+{
+  display:block;
+  display:inline-block;
+  overflow:hidden;
+  position:relative
+}
+.upload-input-ie INPUT
+{
+  margin-left:-42px
+}
+.upload-input-gecko INPUT
+{
+  margin-left:-32px
+}
+.upload-input-gecko-mac INPUT
+{
+  margin-left:-27px
+}
+.upload-input-chrome INPUT
+{
+  width:86px
+}
+.upload-input-chrome>INPUT[multiple][type="file"]
+{
+  width:92px
+}
+.upload-input-chrome-mac INPUT
+{
+  width:79px
+}
+.upload-input-chrome-mac>INPUT[multiple][type="file"]
+{
+  width:85px
+}
+.upload-input-opera INPUT
+{
+  width:72px
+}
+.upload-input-opera>INPUT[multiple][type="file"]
+{
+  width:66px
+}
+.upload-input-opera-mac INPUT
+{
+  width:68px
+}
+.upload-input-opera-mac>INPUT[multiple][type="file"]
+{
+  width:62px
+}
+.upload-input-safari INPUT
+{
+  width:89px
+}
+.upload-input-safari>INPUT[multiple][type="file"]
+{
+  width:92px
+}
+.upload-input-safari-mac INPUT
+{
+  width:79px
+}
+.upload-input-safari-mac>INPUT[multiple][type="file"]
+{
+  width:85px
+}
+.upload-movie
+{
+  position:absolute;
+  z-index:1
+}
+#divMultiSelectTip
+{
+  padding-left:5px;
+  padding-right:5px;
+  text-align:left
+}
+#divMultiSelectTip .upload-multiple-tooltip-key-name
+{
+  font-weight:bold
+}
+#divMultiSelectTip img
+{
+  margin:10px
+}
+.iOS-upload-info
+{
+  -webkit-text-size-adjust:none;
+  width:319px
+}
+.need-help
+{
+  top:260px
+}
+#divUploadPageVeil
+{
+  width:300px;
+  height:200px
+}
+#divUploadPageVeil div.upload-progress
+{
+  background-color:Transparent
+}
+.upload-progress-top
+{
+  position:relative;
+  width:1px;
+  height:1px;
+  top:0;
+  left:0;
+  margin:0;
+  border:0
+}
+.upload-progress
+{
+  position:absolute;
+  background-color:#fff;
+  text-align:center
+}
+.upload-progress .progress-text
+{
+  font-size:12px;
+  font-weight:bold
+}
+.upload-progress-box .dot
+{
+  background-color:#00539f;
+  width:14px;
+  height:14px;
+  margin-top:8px;
+  display:inline-block;
+  text-align:center
+}
+.upload-progress-box .outer-bar
+{
+  position:relative;
+  height:30px
+}
+.upload-progress-box .waiting-area .outer-bar
+{
+  border:1px solid #fff
+}
+.upload-progress-box .waiting-area .dot-wrapper
+{
+  width:33%;
+  display:inline-block
+}
+.upload-progress-box .transfer-area .outer-bar
+{
+  background-color:#cae8f9;
+  border:1px solid #000
+}
+.upload-progress-box .transfer-area .inner-bar
+{
+  position:absolute;
+  left:0;
+  top:0;
+  background-color:#00539f;
+  height:30px
+}
+.upload-progress-box .transfer-area .percent-text
+{
+  position:absolute;
+  left:0;
+  top:0;
+  line-height:30px;
+  font-weight:bold;
+  font-size:14px;
+  color:#fff;
+  width:100%
+}
+.upload-progress-box .processing-area .outer-bar
+{
+  overflow:hidden;
+  border:1px solid #000
+}
+.upload-progress-box .processing-area .inner-bar
+{
+  top:0;
+  height:30px;
+  width:80px;
+  position:absolute
+}
+.upload-progress-box .processing-area .dot
+{
+  margin-left:1px;
+  margin-right:1px
+}
+.upload-progress-box .progress-area
+{
+  position:relative;
+  top:50%;
+  padding:0 5px;
+  margin-top:-26px
+}
+.upload-progress-box .progress-text
+{
+  padding-top:10px
+}
+.upload-progress-box .HTML5 .dot
+{
+  background-color:#00539f;
+  width:12px;
+  height:12px;
+  margin-top:0;
+  display:inline-block;
+  text-align:center
+}
+.upload-progress-box .HTML5 .outer-bar
+{
+  position:relative;
+  height:12px
+}
+.upload-progress-box .HTML5 .waiting-area .outer-bar
+{
+  border:1px solid #fff
+}
+.upload-progress-box .HTML5 .waiting-area .dot-wrapper
+{
+  width:33%;
+  display:inline-block
+}
+.upload-progress-box .HTML5 .transfer-area .outer-bar
+{
+  background-color:#cae8f9;
+  border:1px solid #000
+}
+.upload-progress-box .HTML5 .transfer-area .inner-bar
+{
+  position:absolute;
+  left:0;
+  top:0;
+  background-color:#00539f;
+  height:12px
+}
+.upload-progress-box .HTML5 .transfer-area .percent-text
+{
+  position:absolute;
+  left:0;
+  top:0;
+  line-height:12px;
+  font-weight:bold;
+  font-size:14px;
+  color:#fff;
+  width:100%
+}
+.upload-progress-box .HTML5 .processing-area .outer-bar
+{
+  overflow:hidden;
+  border:1px solid #000
+}
+.upload-progress-box .HTML5 .processing-area .inner-bar
+{
+  top:0;
+  height:12px;
+  width:70px;
+  position:absolute
+}
+.upload-progress-box .HTML5 .processing-area .dot
+{
+  margin-left:1px;
+  margin-right:1px
+}
+.upload-progress-box .HTML5 .progress-area
+{
+  margin-top:0
+}
+.upload-progress-box .HTML5 .progress-text
+{
+  padding-top:0;
+  font-size:10px
+}
+.dtd-quirksmode .ie6to8 .upload-progress-bar .outer-bar
+{
+  height:22px
+}
+.dtd-quirksmode .ie6to8 .upload-progress-area .outer-bar
+{
+  height:22px
+}
+.dtd-quirksmode .ie6to8 .upload-progress-box .outer-bar
+{
+  height:32px
+}
+.upload-progress-bar .dot
+{
+  background-color:#00539f;
+  width:14px;
+  height:14px;
+  margin-top:3px;
+  display:inline-block;
+  text-align:center
+}
+.upload-progress-bar .outer-bar
+{
+  position:relative;
+  height:20px
+}
+.upload-progress-bar .waiting-area .outer-bar
+{
+  border:1px solid #fff
+}
+.upload-progress-bar .waiting-area .dot-wrapper
+{
+  width:33%;
+  display:inline-block
+}
+.upload-progress-bar .transfer-area .outer-bar
+{
+  background-color:#cae8f9;
+  border:1px solid #000
+}
+.upload-progress-bar .transfer-area .inner-bar
+{
+  position:absolute;
+  left:0;
+  top:0;
+  background-color:#00539f;
+  height:20px
+}
+.upload-progress-bar .transfer-area .percent-text
+{
+  position:absolute;
+  left:0;
+  top:0;
+  line-height:20px;
+  font-weight:bold;
+  font-size:14px;
+  color:#fff;
+  width:100%
+}
+.upload-progress-bar .processing-area .outer-bar
+{
+  overflow:hidden;
+  border:1px solid #000
+}
+.upload-progress-bar .processing-area .inner-bar
+{
+  top:0;
+  height:20px;
+  width:80px;
+  position:absolute
+}
+.upload-progress-bar .processing-area .dot
+{
+  margin-left:1px;
+  margin-right:1px
+}
+.upload-progress-bar .progress-area
+{
+  position:relative;
+  top:50%;
+  padding:0 5px;
+  margin-top:-11px
+}
+.upload-progress-bar .progress-area
+{
+  min-width:200px;
+  zoom:1
+}
+.upload-progress-bar .progress-text
+{
+  float:left;
+  text-align:right;
+  width:30%;
+  line-height:22px
+}
+.upload-progress-bar .outer-bar
+{
+  float:right;
+  width:65%
+}
+.upload-progress-area .dot
+{
+  background-color:#00539f;
+  width:14px;
+  height:14px;
+  margin-top:3px;
+  display:inline-block;
+  text-align:center
+}
+.upload-progress-area .outer-bar
+{
+  position:relative;
+  height:20px
+}
+.upload-progress-area .waiting-area .outer-bar
+{
+  border:1px solid #fff
+}
+.upload-progress-area .waiting-area .dot-wrapper
+{
+  width:33%;
+  display:inline-block
+}
+.upload-progress-area .transfer-area .outer-bar
+{
+  background-color:#cae8f9;
+  border:1px solid #000
+}
+.upload-progress-area .transfer-area .inner-bar
+{
+  position:absolute;
+  left:0;
+  top:0;
+  background-color:#00539f;
+  height:20px
+}
+.upload-progress-area .transfer-area .percent-text
+{
+  position:absolute;
+  left:0;
+  top:0;
+  line-height:20px;
+  font-weight:bold;
+  font-size:14px;
+  color:#fff;
+  width:100%
+}
+.upload-progress-area .processing-area .outer-bar
+{
+  overflow:hidden;
+  border:1px solid #000
+}
+.upload-progress-area .processing-area .inner-bar
+{
+  top:0;
+  height:20px;
+  width:80px;
+  position:absolute
+}
+.upload-progress-area .processing-area .dot
+{
+  margin-left:1px;
+  margin-right:1px
+}
+.upload-progress-area .progress-area
+{
+  position:relative;
+  top:50%;
+  padding:0 5px;
+  margin-top:-57.5px
+}
+.upload-progress-area .progress-text
+{
+  font-size:14px
+}
+.upload-progress-area .outer-bar
+{
+  margin:10px 0
+}
+.upload-progress-area .message-text
+{
+  padding:5px 0
+}
+.upload-progress-area .file-name-wrapper,
+.upload-progress-area .time-remaining-wrapper
+{
+  font-weight:bold;
+  padding:2px 0
+}
+.upload-progress-aggregate .dot
+{
+  background-color:#00539f;
+  width:14px;
+  height:14px;
+  margin-top:3px;
+  display:inline-block;
+  text-align:center
+}
+.upload-progress-aggregate .outer-bar
+{
+  position:relative;
+  height:20px
+}
+.upload-progress-aggregate .waiting-area .outer-bar
+{
+  border:1px solid #fff
+}
+.upload-progress-aggregate .waiting-area .dot-wrapper
+{
+  width:33%;
+  display:inline-block
+}
+.upload-progress-aggregate .transfer-area .outer-bar
+{
+  background-color:#cae8f9;
+  border:1px solid #000
+}
+.upload-progress-aggregate .transfer-area .inner-bar
+{
+  position:absolute;
+  left:0;
+  top:0;
+  background-color:#00539f;
+  height:20px
+}
+.upload-progress-aggregate .transfer-area .percent-text
+{
+  position:absolute;
+  left:0;
+  top:0;
+  line-height:20px;
+  font-weight:bold;
+  font-size:14px;
+  color:#fff;
+  width:100%
+}
+.upload-progress-aggregate .processing-area .outer-bar
+{
+  overflow:hidden;
+  border:1px solid #000
+}
+.upload-progress-aggregate .processing-area .inner-bar
+{
+  top:0;
+  height:20px;
+  width:80px;
+  position:absolute
+}
+.upload-progress-aggregate .processing-area .dot
+{
+  margin-left:1px;
+  margin-right:1px
+}
+.upload-progress-aggregate .progress-area
+{
+  position:relative;
+  top:50%;
+  padding:0 5px;
+  margin-top:-20px
+}
+.upload-progress-aggregate .progress-text
+{
+  padding-top:10px
+}
+.upload-progress-aggregate .transfer-area .progress-text
+{
+  padding-top:0;
+  font-weight:normal
+}
+#pageUploadErrorDialog .upload-error
+{
+  background-color:Transparent;
+  padding:10px
+}
+.upload-error
+{
+  background-color:#fcf4ca;
+  padding:4px;
+  text-align:left
+}
+.upload-error .header
+{
+  font-size:14px;
+  font-weight:bold;
+  color:#de0000;
+  padding-bottom:2px
+}
+.upload-error .header img
+{
+  vertical-align:middle;
+  margin-right:6px
+}
+.upload-error .subheader
+{
+  font-size:11px;
+  color:#de0000;
+  padding:0 0 4px 20px
+}
+.upload-error .suggestions-header
+{
+  font-weight:bold;
+  padding:6px 0 4px 0
+}
+.upload-error .suggestions li
+{
+  list-style-image:url(data:image/gif;base64,R0lGODdhBAAEAPAAAC4vkQAAACwAAAAABAAEAAACBISPCQUAOw==)
+}
+.upload-error .suggestions ul
+{
+  margin:0;
+  border:0;
+  padding:2px 0 2px 15px
+}
